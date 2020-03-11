@@ -1,4 +1,2 @@
-/viikko1/tehtavat14-16/.nb-gradle/
-/viikko1/tehtavat14-16/build/
-/viikko1/tehtavat15-16/.nb-gradle/
-/viikko1/tehtavat15-16/build/
+.nb-gradle/
+build/
